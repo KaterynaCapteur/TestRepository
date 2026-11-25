@@ -6,11 +6,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="FakePackage" Version="1.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.11" />
-    <PackageReference Include="NuGet.Protocol" Version="7.9.0" />
-    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="10.0.13" />
-  </ItemGroup>
-
 </Project>
